@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "plugins": [
+    {
+      "id": "jira",
+      "name": "Jira",
+      "description": "Connect your Jira Cloud site and create issues from a side panel.",
+      "repo": "BlueShork/maestro-deck-plugin-jira",
+      "version": "1.0.0",
+      "minAppVersion": "1.1.0",
+      "url": "https://github.com/BlueShork/maestro-deck-plugin-jira/releases/download/v1.0.0/plugin.zip",
+      "sha256": "4291c89784803a5b192d52b32e480f34739a3dae8fe357fd9085e37e2a7f733d"
+    }
+  ]
+}
